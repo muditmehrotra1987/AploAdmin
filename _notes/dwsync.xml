@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="edit_record.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129944956514764089" remote="129944956510000000" />
+<file name="review_services.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129939838566215577" remote="129939838560000000" />
+<file name="new_service.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129948621519302450" remote="129948621510000000" />
+<file name="edit_service.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129953877119775057" remote="129953877110000000" />
+<file name="review_customer.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129949449984745064" remote="129949449980000000" />
+<file name="change_password.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129953709860835525" remote="129953709860000000" />
+<file name="header.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129944087259127486" remote="129944087250000000" />
+<file name="login.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129940031264167269" remote="129940031260000000" />
+<file name="index.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129956238636148735" remote="129956238630000000" />
+<file name="dashboard.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129955565038805664" remote="129955565030000000" />
+<file name="review_payment.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129945067733104604" remote="129945067730000000" />
+<file name="cart.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129925261080116451" remote="129925261080000000" />
+<file name="sim.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129925234683746665" remote="129925234680000000" />
+<file name="checkout.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129947638722681000" remote="129947638720000000" />
+<file name="confirm_checkout.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129953547495383918" remote="129953547490000000" />
+<file name="response.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129952144678489470" remote="129952144670000000" />
+<file name="edit_customer.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129944969088153245" remote="129944969080000000" />
+<file name="transaction_details.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129954614123896115" remote="129954614120000000" />
+<file name="forgot_password.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129956197516240840" remote="129956197510000000" />
+<file name="forgotpassword.php" server="C:/Users/Triff0rt/AppData/Local/VirtualStore/Program Files (x86)/VertrigoServ/www/apollo_admin/" local="129956319489973309" remote="129956319480000000" />
+<file name="cart.php" server="ps74883.dreamhostps.com/apollo/" local="129925261080116451" remote="129974082000000000" />
+<file name="change_password.php" server="ps74883.dreamhostps.com/apollo/" local="129953718485808845" remote="129974082000000000" />
+<file name="checkout.php" server="ps74883.dreamhostps.com/apollo/" local="129956335018941515" remote="129974082000000000" />
+<file name="confirm_checkout.php" server="ps74883.dreamhostps.com/apollo/" local="129975168506640215" remote="129974682600000000" />
+<file name="connect-db.php" server="ps74883.dreamhostps.com/apollo/" local="129974449778425973" remote="129974082000000000" />
+<file name="dashboard.php" server="ps74883.dreamhostps.com/apollo/" local="129955565038805664" remote="129974082000000000" />
+<file name="delete.php" server="ps74883.dreamhostps.com/apollo/" local="129943478862026578" remote="129974082000000000" />
+<file name="delete_customer.php" server="ps74883.dreamhostps.com/apollo/" local="129939950247153361" remote="129974082000000000" />
+<file name="delete_service.php" server="ps74883.dreamhostps.com/apollo/" local="129939883122214034" remote="129974082000000000" />
+<file name="edit_customer.php" server="ps74883.dreamhostps.com/apollo/" local="129955568441100264" remote="129974082000000000" />
+<file name="edit_record.php" server="ps74883.dreamhostps.com/apollo/" local="129944962148526321" remote="129974082000000000" />
+<file name="edit_service.php" server="ps74883.dreamhostps.com/apollo/" local="129976232554464193" remote="129975747000000000" />
+<file name="footer.php" server="ps74883.dreamhostps.com/apollo/" local="129944086167525050" remote="129974082000000000" />
+<file name="forgot_password.php" server="ps74883.dreamhostps.com/apollo/" local="129956245983788996" remote="129974082000000000" />
+<file name="forgotpassword.php" server="ps74883.dreamhostps.com/apollo/" local="129956319489973309" remote="129974082000000000" />
+<file name="header.php" server="ps74883.dreamhostps.com/apollo/" local="129954631749113369" remote="129974082000000000" />
+<file name="index.php" server="ps74883.dreamhostps.com/apollo/" local="129956238636148735" remote="129974082000000000" />
+<file name="login.php" server="ps74883.dreamhostps.com/apollo/" local="129944087982488860" remote="129974082000000000" />
+<file name="logout.php" server="ps74883.dreamhostps.com/apollo/" local="129944088417843761" remote="129974082000000000" />
+<file name="new_service.php" server="ps74883.dreamhostps.com/apollo/" local="129974579410000000" remote="129974093400000000" />
+<file name="response.php" server="ps74883.dreamhostps.com/apollo/" local="129953736597764789" remote="129974082000000000" />
+<file name="review_customer.php" server="ps74883.dreamhostps.com/apollo/" local="129955567337347133" remote="129974082000000000" />
+<file name="review_payment.php" server="ps74883.dreamhostps.com/apollo/" local="129945086480356886" remote="129974082000000000" />
+<file name="review_services.php" server="ps74883.dreamhostps.com/apollo/" local="129953796384497264" remote="129974082000000000" />
+<file name="sim.php" server="ps74883.dreamhostps.com/apollo/" local="129925234683746665" remote="129974082000000000" />
+<file name="transaction_details.php" server="ps74883.dreamhostps.com/apollo/" local="129954630366814306" remote="129974082600000000" />
+<file name="update_record.php" server="ps74883.dreamhostps.com/apollo/" local="129935627257605037" remote="129974082600000000" />
+</dwsync>
